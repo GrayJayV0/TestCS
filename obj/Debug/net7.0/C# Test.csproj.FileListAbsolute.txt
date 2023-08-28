@@ -1,0 +1,30 @@
+/Users/jayden/Desktop/C# Test/bin/Debug/net7.0/C# Test
+/Users/jayden/Desktop/C# Test/bin/Debug/net7.0/C# Test.deps.json
+/Users/jayden/Desktop/C# Test/bin/Debug/net7.0/C# Test.runtimeconfig.json
+/Users/jayden/Desktop/C# Test/bin/Debug/net7.0/C# Test.dll
+/Users/jayden/Desktop/C# Test/bin/Debug/net7.0/C# Test.pdb
+/Users/jayden/Desktop/C# Test/obj/Debug/net7.0/C# Test.csproj.AssemblyReference.cache
+/Users/jayden/Desktop/C# Test/obj/Debug/net7.0/C# Test.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jayden/Desktop/C# Test/obj/Debug/net7.0/C# Test.AssemblyInfoInputs.cache
+/Users/jayden/Desktop/C# Test/obj/Debug/net7.0/C# Test.AssemblyInfo.cs
+/Users/jayden/Desktop/C# Test/obj/Debug/net7.0/C# Test.csproj.CoreCompileInputs.cache
+/Users/jayden/Desktop/C# Test/obj/Debug/net7.0/C# Test.dll
+/Users/jayden/Desktop/C# Test/obj/Debug/net7.0/refint/C# Test.dll
+/Users/jayden/Desktop/C# Test/obj/Debug/net7.0/C# Test.pdb
+/Users/jayden/Desktop/C# Test/obj/Debug/net7.0/C# Test.genruntimeconfig.cache
+/Users/jayden/Desktop/C# Test/obj/Debug/net7.0/ref/C# Test.dll
+/Users/jayden/Desktop/TestCS/obj/Debug/net7.0/C# Test.csproj.AssemblyReference.cache
+/Users/jayden/Desktop/TestCS/obj/Debug/net7.0/C# Test.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jayden/Desktop/TestCS/obj/Debug/net7.0/C# Test.AssemblyInfoInputs.cache
+/Users/jayden/Desktop/TestCS/obj/Debug/net7.0/C# Test.AssemblyInfo.cs
+/Users/jayden/Desktop/TestCS/obj/Debug/net7.0/C# Test.csproj.CoreCompileInputs.cache
+/Users/jayden/Desktop/TestCS/obj/Debug/net7.0/C# Test.dll
+/Users/jayden/Desktop/TestCS/obj/Debug/net7.0/refint/C# Test.dll
+/Users/jayden/Desktop/TestCS/obj/Debug/net7.0/C# Test.pdb
+/Users/jayden/Desktop/TestCS/bin/Debug/net7.0/C# Test
+/Users/jayden/Desktop/TestCS/bin/Debug/net7.0/C# Test.deps.json
+/Users/jayden/Desktop/TestCS/bin/Debug/net7.0/C# Test.runtimeconfig.json
+/Users/jayden/Desktop/TestCS/bin/Debug/net7.0/C# Test.dll
+/Users/jayden/Desktop/TestCS/bin/Debug/net7.0/C# Test.pdb
+/Users/jayden/Desktop/TestCS/obj/Debug/net7.0/C# Test.genruntimeconfig.cache
+/Users/jayden/Desktop/TestCS/obj/Debug/net7.0/ref/C# Test.dll
